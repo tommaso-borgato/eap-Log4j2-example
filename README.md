@@ -1,0 +1,1 @@
+replaces `log4j-api-2.14.0.redhat-00002.jar` with `log4j-api-2.14.1.redhat-00002.jar`
